@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf4b8e61-3daa-405a-a0df-9ee08794a26a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Insertion.py/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Insertion.py/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="cf4b8e61-3daa-405a-a0df-9ee08794a26a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +19,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/PycharmProjects/Monkey_maker"
   }
 }]]></component>
   <component name="RunManager">
